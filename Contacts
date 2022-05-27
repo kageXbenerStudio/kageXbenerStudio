@@ -15,5 +15,5 @@ print("089579059705")
 print "© Copyright By kageXbenerStudios"
 time.sleep(8)
 print "Exiting!?"
-time.sleep(8)
+time.sleep(9)
 os.system ("exit")
