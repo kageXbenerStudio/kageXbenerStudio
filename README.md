@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @kageXbenerStudio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## kageXbenerStudio
 
-<!---
-kageXbenerStudio/kageXbenerStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+kageXbenerStudio is the creation of a specific project 
+kageXbener Created to create a terminal script
+kageProject won't joke with Project because our collab team is serious about making it
+
+## Projects
+
+
+- BlueSyncX Project
+- UniteSpace Project
+- Spackme Project
+
+
+## Copyright Code
+
+
+@Copyrigth By BlueSyncX
+@Copyright By kageXbener
+@Copyright By UniteSpace
