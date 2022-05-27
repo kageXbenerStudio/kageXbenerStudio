@@ -1,20 +1,4 @@
-#Run_This_In_Python2!
+#Run This In Python2!
 #Download This Repository and open contacts file with python2
-
-import os
-import time
-
-os.system("figlet kageXbener")
-print("Contacts")
-time.sleep(5)
-os.system ("figlet Discord")
-print("BLUEPLAYZGO#5918")
-os.system ("figlet WhatsApp")
-print("6285810676147")
-os.system ("figlet Other")
-print("089579059705")
-print "Copyright By kageXbenerStudios"
-time.sleep(8)
-print "Exiting!?"
-time.sleep(9)
-os.system ("exit")
+#Dont Deleted Bottom Text or error
+cython=['++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++>
