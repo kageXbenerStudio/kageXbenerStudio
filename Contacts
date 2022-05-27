@@ -1,0 +1,20 @@
+#Run_This_In_Python2!
+
+import os
+import time
+
+os.system("figlet kageXbener")
+print("Contacts")
+time.sleep(5)
+os.system ("figlet Discord")
+print("BLUEPLAYZGO#5918")
+os.system ("figlet WhatsApp")
+print("6285810676147")
+os.system ("figlet Other")
+print("089579059705")
+
+print "© Copyright By kageXbenerStudios"
+time.sleep(8)
+print "Exiting!?"
+time.sleep(8)
+os.system ("exit")
