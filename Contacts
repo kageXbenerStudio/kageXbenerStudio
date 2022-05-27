@@ -1,4 +1,5 @@
 #Run_This_In_Python2!
+#Download This Repository and open contacts file with python2
 
 import os
 import time
