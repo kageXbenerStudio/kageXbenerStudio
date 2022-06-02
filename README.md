@@ -19,4 +19,4 @@ kageProject won't joke with Project because our collab team is serious about mak
 @Copyright By kageXbener
 @Copyright By UniteSpace
 
-Made in 印度尼西亚
+Made in California
